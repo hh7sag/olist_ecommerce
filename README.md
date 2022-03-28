@@ -38,6 +38,12 @@ Then, merge the product with customer, pcn_trans (product translations) and orde
 
 ![image](https://user-images.githubusercontent.com/97778235/160353778-3ac0138b-0702-42c7-b98d-750ac01d5a23.png)
 
-### Data Analysis
+### Exploratory Data Analysis
+
+As mentioned, there are 2 main criteria to choose top product categories: total number of orders and total sucessful orders as key metric and supporting metric.
+In terms of total number of orders, there are the top 5 categories with highest number of orders, with home office furniture and bed bath table top the chart
+
+![image](https://user-images.githubusercontent.com/97778235/160361253-0757b252-fde0-47e0-97a3-61b990f80f64.png)
+
 
 
