@@ -45,5 +45,9 @@ In terms of total number of orders, there are the top 5 categories with highest 
 
 ![image](https://user-images.githubusercontent.com/97778235/160361253-0757b252-fde0-47e0-97a3-61b990f80f64.png)
 
+Then, I analyze the top 5 categories from time to time to get the overview of the trend. From the line chart, the number of orders gradually increased.
 
+![image](https://user-images.githubusercontent.com/97778235/160362140-fa643d6c-a499-4d69-a9c2-f4973138cf23.png)
+
+It can be demonstrated from the graph that the number of orders in 5 categories started at Sep/2016 and continued going up and down until reaching their peaks in Nov/2017 (maybe BlackFriday demand). Also, there were some ongoing trends such as health_beauty products after reaching its 1st peak in Nov/2017, it continued to go up in 2018 and sudden increase in computer_games rising up in Feb/2018. After the 1st peak in Nov/2017, bed bath table, sports leisure and home office furniture slowly went down
 
