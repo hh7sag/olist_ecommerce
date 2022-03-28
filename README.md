@@ -26,7 +26,7 @@ Imagining that you are a consultant, and your customer is founder of Olist. The 
 ## Methodology 
 ### Cleaning the data
 
-Firstly, I divided the customer states into 5 regions including North, North East, Mid Central, South and South East as the following map
+Firstly, I divide the customer states into 5 regions including North, North East, Mid Central, South and South East as the following map
 
 ![image](https://user-images.githubusercontent.com/97778235/160351449-a7e7abd5-e78b-49b2-bec8-651cc604f023.png)
 
@@ -39,6 +39,7 @@ Then, merge the product with customer, pcn_trans (product translations) and orde
 ![image](https://user-images.githubusercontent.com/97778235/160353778-3ac0138b-0702-42c7-b98d-750ac01d5a23.png)
 
 ### Exploratory Data Analysis
+#### Simple EDA  
 
 As mentioned, there are 2 main criteria to choose top product categories: total number of orders and total sucessful orders as key metric and supporting metric.
 In terms of total number of orders, there are the top 5 categories with highest number of orders, with home office furniture and bed bath table top the chart
@@ -50,4 +51,20 @@ Then, I analyze the top 5 categories from time to time to get the overview of th
 ![image](https://user-images.githubusercontent.com/97778235/160362140-fa643d6c-a499-4d69-a9c2-f4973138cf23.png)
 
 It can be demonstrated from the graph that the number of orders in 5 categories started at Sep/2016 and continued going up and down until reaching their peaks in Nov/2017 (maybe BlackFriday demand). Also, there were some ongoing trends such as health_beauty products after reaching its 1st peak in Nov/2017, it continued to go up in 2018 and sudden increase in computer_games rising up in Feb/2018. After the 1st peak in Nov/2017, bed bath table, sports leisure and home office furniture slowly went down
+
+Regarding successful orders, we filter the orders using order status as delivered. Then, counting number of successful orders and choosing the top5 product categories as follow:
+
+![image](https://user-images.githubusercontent.com/97778235/160364460-522a0b9e-09ed-4e4d-9949-88a65b5dbed9.png)
+
+In the top 5 categories mentioned in the bar graph, home office furniture and bed_bad_table products all have the highest number of successful orders
+
+Like total number of orders, I also analyze the trend over the last 2 years as follow:
+
+![image](https://user-images.githubusercontent.com/97778235/160368898-9c1e50d8-c833-41f9-a5ea-d4068ec78808.png)
+
+It can be demonstrated from the chart that the total successful orders in 5 categories started at Oct/2016 and continued going up and down until reaching their peaks in Nov/2017 (maybe BlackFriday demand). Their patterns kept increasing but the pace were unstable. 
+
+After analysizing based on total price, total number of orders and total successful orders, it is clearly stated from most of the charts that Nov/2017 witnessed the sudden rise in categories such as bed_bath_table, health_beauty, computer games and home office furniture. Also, customer categories preferences are product categories received highest number of orders (key metric), and to find the top ones we also refer to list of categories with successful orders as supporting metric.
+
+
 
