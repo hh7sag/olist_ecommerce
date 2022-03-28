@@ -64,7 +64,6 @@ Like total number of orders, I also analyze the trend over the last 2 years as f
 
 It can be demonstrated from the chart that the total successful orders in 5 categories started at Oct/2016 and continued going up and down until reaching their peaks in Nov/2017 (maybe BlackFriday demand). Their patterns kept increasing but the pace were unstable. 
 
-After analysizing based on total price, total number of orders and total successful orders, it is clearly stated from most of the charts that Nov/2017 witnessed the sudden rise in categories such as bed_bath_table, health_beauty, computer games and home office furniture. Also, customer categories preferences are product categories received highest number of orders (key metric), and to find the top ones we also refer to list of categories with successful orders as supporting metric.
-
+After analysizing based on total price, total number of orders and total successful orders, it is clearly stated from most of the charts that Nov/2017 witnessed the sudden rise in categories such as bed_bath_table, health_beauty, computer games and home office furniture. 
 
 
