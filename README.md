@@ -24,3 +24,7 @@ Imagining that you are a consultant, and your customer is founder of Olist. The 
 
 ## Methodology 
 ### Cleaning the data
+
+Firstly, I divided the customer states into 5 regions including North, North East, Mid Central, South and South East as the following map
+
+![image](https://user-images.githubusercontent.com/97778235/160351449-a7e7abd5-e78b-49b2-bec8-651cc604f023.png)
