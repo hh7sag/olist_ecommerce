@@ -19,3 +19,8 @@ Then, calculating the product volume by multiplying the length * width * height 
 
 ![image](https://user-images.githubusercontent.com/97778235/160348991-b7ad35d1-d88c-47c4-9ef3-3eace6741879.png)
 
+## Problem Statement
+Imagining that you are a consultant, and your customer is founder of Olist. The customers need some insights to have a better view of product classification through regions and timeline. Based on 2 ways of regions (space) and timeline (time), you are required to make an analysis.
+
+## Methodology 
+### Cleaning the data
