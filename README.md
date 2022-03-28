@@ -9,7 +9,13 @@ For Olist projects, there are 8 datasets in total, but I only use 2 datasets inc
 
 ![image](https://user-images.githubusercontent.com/97778235/160346724-41691656-7587-4f54-bf41-ca0e3fcf59e1.png)
 
-+ Product dataset: It has 32951 products with nearly 72 product categories and other product features such as photo quantity, name length, description length, weight, length, width and height
++ Product dataset: It has 32951 products with nearly 73 product categories and other product features such as photo quantity, name length, description length, weight, length, width and height
 
 ![image](https://user-images.githubusercontent.com/97778235/160347515-17d57eac-767f-4c93-9d29-d370c1ff2382.png)
+
+Then, calculating the product volume by multiplying the length * width * height of the products
+
+![image](https://user-images.githubusercontent.com/97778235/160348904-a0d0f4f4-96ad-4e9c-99f1-49cea34c17a9.png)
+
+![image](https://user-images.githubusercontent.com/97778235/160348991-b7ad35d1-d88c-47c4-9ef3-3eace6741879.png)
 
