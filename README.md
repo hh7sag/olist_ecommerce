@@ -96,7 +96,7 @@ In terms of total orders, the South East has the most %change in 2 years with %c
 
 ![image](https://user-images.githubusercontent.com/97778235/160569719-bd3d0e95-1beb-4bcd-b5e4-0c0abf9d617c.png)
 
-Although South East has the significant change over the last 2 years, is this growing trend the same for product features in Southern regions? 
+Although South East has the significant change over the last 2 years, is this growing trend the same for product features in the South East? 
 
 ![image](https://user-images.githubusercontent.com/97778235/160570669-7b6dd89e-38df-49bd-8189-4859c1ac199e.png)
 
@@ -110,6 +110,7 @@ Although South East has the significant change over the last 2 years, is this gr
 
 ![image](https://user-images.githubusercontent.com/97778235/160572653-06f58973-f0ce-4259-8c65-f95b2c8c59b8.png)
 
+Regarding product attributes, the South East has a rapid growth in product price, weight and volume and number of photos, meanwhile, the %change in name length is decreasing over 2 years. Over time, South East customers are likely to buy bed bath table products with more photos, concise name length with reasonable volume, weight and price
 
 
 
