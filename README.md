@@ -96,7 +96,7 @@ In terms of total orders, the South East has the most %change in 2 years with %c
 
 ![image](https://user-images.githubusercontent.com/97778235/160569719-bd3d0e95-1beb-4bcd-b5e4-0c0abf9d617c.png)
 
-Then, we look at the changes in product features across 2 years
+Although South East has the significant change over the last 2 years, is this growing trend the same for product features in Southern regions? 
 
 ![image](https://user-images.githubusercontent.com/97778235/160570669-7b6dd89e-38df-49bd-8189-4859c1ac199e.png)
 
