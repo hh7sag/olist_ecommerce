@@ -67,5 +67,23 @@ It can be demonstrated from the chart that the total successful orders in 5 cate
 After analysizing based on total price, total number of orders and total successful orders, it is clearly stated from most of the charts that Nov/2017 witnessed the sudden rise in categories such as bed_bath_table, health_beauty, computer games and home office furniture. 
 
 ### Detailed EDA
+#### Product recommendations based on Brazillian regions
+
+Using pivot table, I count number of orders for each region for each product category to see which product category has the most number of orders (the darker the color, the more orders the product category has) 
+
+![image](https://user-images.githubusercontent.com/97778235/160563480-d034cbeb-e722-4d6a-955d-5fed424a7d7e.png)
+
+![image](https://user-images.githubusercontent.com/97778235/160563565-967081de-0f05-41ee-8429-530acd92e6d5.png)
+
+![image](https://user-images.githubusercontent.com/97778235/160563668-e47b624d-79ce-49ed-9ddb-0a18808a3090.png)
+
+![image](https://user-images.githubusercontent.com/97778235/160563764-410e7e6b-37af-4aca-b21c-5970e09e6736.png)
+
+![image](https://user-images.githubusercontent.com/97778235/160564022-c2fc32f1-bfcf-4bdd-ab9f-28dfc585f468.png)
+
+There is a transition in customer's top preferences prodcut category (measured by number of order) from North to South, which moves (region by region) from `computers, games`, to `health beauty`, to `bed bath table`, and to `home office furniture`
+
+
+
 
 
