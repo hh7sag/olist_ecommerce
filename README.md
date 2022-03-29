@@ -81,9 +81,26 @@ Using pivot table, I count number of orders for each region for each product cat
 
 ![image](https://user-images.githubusercontent.com/97778235/160564022-c2fc32f1-bfcf-4bdd-ab9f-28dfc585f468.png)
 
-There is a transition in customer's top preferences prodcut category (measured by number of order) from North to South, which moves (region by region) from `computers, games`, to `health beauty`, to `bed bath table`, and to `home office furniture`
+There is a transition in customer's top preferences product category (measured by number of order) from North to South, which moves (region by region) from `computers, games`, to `health beauty`, to `bed bath table`, and to `home office furniture`
 
+#### Product features through the years from 2016 to 2018
 
+As mentioned, there are top 3 product categories `health beauty`, `bed bath table` and `home office furniture`from North to South. But first, let's look at the bed bath table product category. In terms of number of orders, South and South East have the highest number of all. Then, filter out bed bath table products in Southern regions and make a correlation matrix to see the correlation between product features of photo quantity, name length, description length, weight, volume and price as follow:
+
+![image](https://user-images.githubusercontent.com/97778235/160568673-fc05d934-21f4-441e-99aa-21647adaf19c.png)
+
+For bed bath table products, the product photo quantity has a slight positive correlation with number of orders in 3.5% (more photos, more customers buy orders)
+Regarding product description length, product weight, volume and price, they all have a slight negative correlation with number of orders (less weight and volume, cheaper price, more customers buy orders)
+
+In terms of total orders, the South East has the most %change in 2 years with %change at 14%
+
+![image](https://user-images.githubusercontent.com/97778235/160569719-bd3d0e95-1beb-4bcd-b5e4-0c0abf9d617c.png)
+
+Then, we look at the changes in product features across 2 years
+
+![image](https://user-images.githubusercontent.com/97778235/160570669-7b6dd89e-38df-49bd-8189-4859c1ac199e.png)
+
+![image](https://user-images.githubusercontent.com/97778235/160571138-1a08f399-e278-49a0-ba89-9b8a4ead73fb.png)
 
 
 
