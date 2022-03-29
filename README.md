@@ -102,5 +102,16 @@ Then, we look at the changes in product features across 2 years
 
 ![image](https://user-images.githubusercontent.com/97778235/160571138-1a08f399-e278-49a0-ba89-9b8a4ead73fb.png)
 
+![image](https://user-images.githubusercontent.com/97778235/160572278-e7b7b2d1-8c72-45e7-9ea6-c9634a35054b.png)
+
+![image](https://user-images.githubusercontent.com/97778235/160572503-34a08ae4-470b-4475-b094-94d9f440e0e7.png)
+
+![image](https://user-images.githubusercontent.com/97778235/160572569-b6445221-37b3-4493-8bc8-4ec23200064d.png)
+
+![image](https://user-images.githubusercontent.com/97778235/160572653-06f58973-f0ce-4259-8c65-f95b2c8c59b8.png)
+
+
+
+
 
 
