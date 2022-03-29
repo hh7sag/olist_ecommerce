@@ -66,4 +66,6 @@ It can be demonstrated from the chart that the total successful orders in 5 cate
 
 After analysizing based on total price, total number of orders and total successful orders, it is clearly stated from most of the charts that Nov/2017 witnessed the sudden rise in categories such as bed_bath_table, health_beauty, computer games and home office furniture. 
 
+### Detailed EDA
+
 
