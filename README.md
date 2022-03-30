@@ -85,7 +85,7 @@ There is a transition in customer's top preferences product category (measured b
 
 #### Product features through the years from 2016 to 2018
 
-#### Bed bath table category
+##### Bed bath table category
 
 As mentioned, there are top 3 product categories `health beauty`, `bed bath table` and `home office furniture`from North to South. But first, let's look at the bed bath table product category. In terms of number of orders, South and South East have the highest number of all. Then, filter out bed bath table products in Southern regions and make a correlation matrix to see the correlation between product features of photo quantity, name length, description length, weight, volume and price as follow:
 
@@ -114,6 +114,33 @@ Although South East has the significant change over the last 2 years, is this gr
 
 Regarding product attributes, the South East has a rapid growth in product price, weight and volume and number of photos, meanwhile, the %change in name length is decreasing over 2 years. Over time, South East customers are likely to buy bed bath table products with more photos, concise name length with reasonable volume, weight and price
 
+##### Health beauty category
+
+Firstly, we have a look at what categories having the most orders in each region. Regarding health beauty products, North, North East and Mid West regions all have health,beauty products as the top, so we will analyze health beauty products in 3 regions. Then, I filter out the product attributes in Northern and Mid West regions for health beauty products and create a correlation matrix comparing the number of orders whether related to product features just like the previous one in bed bath table 
+
+![image](https://user-images.githubusercontent.com/97778235/160778100-d84d7a74-eec6-4fd2-85a6-f2180458f353.png)
+
+For heath beauty products, product name length and photo quantity have a slight positive correlation with number of orders, meanwhile, product weight, volume and price have a little negative correlation, which means more photos and name length meaning more orders as well as less weight and volume and price result in more orders
+
+Furthermore, let's see the product change in number of orders in 3 regions of North, North East and Mid West, the North was growing significantly and maintained a stable 10-14% change in orders, ahead of other 2 regions
+
+![image](https://user-images.githubusercontent.com/97778235/160779195-f2e4cac2-27b1-458a-8d5e-2e2ca5bbec5e.png)
+
+Although North has the most significant growth in the last 2 years, does the North show similar trend regarding product features?
+
+![image](https://user-images.githubusercontent.com/97778235/160779600-76aead9a-e864-403d-87b2-56c30ae350a5.png)
+
+![image](https://user-images.githubusercontent.com/97778235/160779679-0f1f47a0-cd3b-42a2-ab83-1e60c58b9b04.png)
+
+![image](https://user-images.githubusercontent.com/97778235/160779749-0f9c3274-9f77-496d-98a8-9b3efee4ce5a.png)
+
+![image](https://user-images.githubusercontent.com/97778235/160779834-ba690ba8-23bf-46c0-8f1c-2a4cd58ebd2c.png)
+
+![image](https://user-images.githubusercontent.com/97778235/160779902-93991b38-3083-4065-b163-2ec13105e01e.png)
+
+![image](https://user-images.githubusercontent.com/97778235/160779961-d5f34207-c54f-48b7-a63f-4111381d6e39.png)
+
+Regarding product attributes, North region demonstrated significant change ahead 2 other regions, especially price, weight, volume and photo quantity while description length and name length have %change decreasing over time. In other words, North prefer concise name and description length and less weight, volume and price
 
 
 
