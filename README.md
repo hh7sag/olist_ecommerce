@@ -85,6 +85,8 @@ There is a transition in customer's top preferences product category (measured b
 
 #### Product features through the years from 2016 to 2018
 
+#### Bed bath table category
+
 As mentioned, there are top 3 product categories `health beauty`, `bed bath table` and `home office furniture`from North to South. But first, let's look at the bed bath table product category. In terms of number of orders, South and South East have the highest number of all. Then, filter out bed bath table products in Southern regions and make a correlation matrix to see the correlation between product features of photo quantity, name length, description length, weight, volume and price as follow:
 
 ![image](https://user-images.githubusercontent.com/97778235/160568673-fc05d934-21f4-441e-99aa-21647adaf19c.png)
