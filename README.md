@@ -142,6 +142,11 @@ Although North has the most significant growth in the last 2 years, does the Nor
 
 Regarding product attributes, North region demonstrated significant change ahead 2 other regions, especially price, weight, volume and photo quantity while description length and name length have %change decreasing over time. In other words, North prefer concise name and description length and less weight, volume and price
 
+##### Home office furniture
+Like bed bath table, I count number of orders for all regions and figured out South and South East have the most orders of all, so I will analyze home office furniture in 2 regions. Then, I filter out product attributes in Southern regions for home office furniture products and create the correlation matrix of number of orders whether related to product features similar to previous one for bed bath table and health beauty
 
+![image](https://user-images.githubusercontent.com/97778235/160783056-37f35c24-15f4-4b50-bbb1-e8ab3727677a.png)
+
+For home office furniture products, the product name length and description length along with price have a slight negative correlation with number of orders. In other words, customers are likely to buy home office furniture products with less word length and cheaper price (Products with concise name and cheaper price result in high number of orders)
 
 
