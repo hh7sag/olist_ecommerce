@@ -175,3 +175,6 @@ In general, South and South East perform a very upward change in all product att
 
 => South East: Bed, bath, table and home office furniture: Stable growth in product price, however photo quanity and name length show decreasing trend 
 
+## References
+Google Colab: https://colab.research.google.com/drive/15rM3Thvox7IhYbUMbr9uVKbefZTND-Pu#scrollTo=xmwAjczEjiBQ
+Link GDS: https://datastudio.google.com/reporting/eb281ccc-c4e0-43a1-8999-a06fa37930b9
