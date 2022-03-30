@@ -167,6 +167,11 @@ South East is ahead in %change in number of orders in the last 2 years. Will the
 
 ![image](https://user-images.githubusercontent.com/97778235/160786902-1402dfb7-e3e0-4854-ad96-ebd6cd4d0fe4.png)
 
+In general, South and South East perform a very upward change in all product attributes. Also, a rise in number of photo quantity, name length and description length from customer in the South meanwhile the South East remains stable over 2 years. In other words, South East region are likely to buy home office furniture with more photos, less name length and stable price
 
+## Results
 
+=> North: Health, beauty: price and photo quantity show increasing trend while name length shows decreasing trend over time 
+
+=> South East: Bed, bath, table and home office furniture: Stable growth in product price, however photo quanity and name length show decreasing trend 
 
