@@ -149,4 +149,24 @@ Like bed bath table, I count number of orders for all regions and figured out So
 
 For home office furniture products, the product name length and description length along with price have a slight negative correlation with number of orders. In other words, customers are likely to buy home office furniture products with less word length and cheaper price (Products with concise name and cheaper price result in high number of orders)
 
+Regarding number of orders, % change in number of orders grows stably in both regions, with 4% in the South and 5% in the South East. South grows from 1.5% to 4%, meanwhile, South East grows from 2.5% to 5%
+
+![image](https://user-images.githubusercontent.com/97778235/160785416-0f22cb25-9cef-4dd5-a042-1a234c8dd8ee.png)
+
+South East is ahead in %change in number of orders in the last 2 years. Will the trend be the same for all product features in South East?
+
+![image](https://user-images.githubusercontent.com/97778235/160786413-250536c4-ba27-49eb-bcaf-aa4fdb208bce.png)
+
+![image](https://user-images.githubusercontent.com/97778235/160786534-8a044643-72c7-4e17-9fb0-e39ab17b1e9b.png)
+
+![image](https://user-images.githubusercontent.com/97778235/160786601-92f98a03-9800-47c1-873c-24602f3d55d3.png)
+
+![image](https://user-images.githubusercontent.com/97778235/160786769-b52dba8e-37d1-414d-a4b5-fc58b758062a.png)
+
+![image](https://user-images.githubusercontent.com/97778235/160786818-ed796bab-0a4f-4aab-8ce4-60e03bc33f08.png)
+
+![image](https://user-images.githubusercontent.com/97778235/160786902-1402dfb7-e3e0-4854-ad96-ebd6cd4d0fe4.png)
+
+
+
 
